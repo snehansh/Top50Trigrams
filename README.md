@@ -4,7 +4,7 @@ Shakespeare Analytics
 
 This project was first given to me as part of an assignment during my course work of Masters at Iowa State University.
 
-The program takes a subset of Shakespeare’s work, in plain text format as input.
+The program takes a subset of Shakespeare’s work, in plain text format as input. <br>
 The program generates a CSV file that identifies the top 50 frequent trigrams (contiguous
 sequence of 3 words).
 
