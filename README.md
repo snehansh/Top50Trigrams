@@ -12,6 +12,6 @@ The requirement was to ignore all XML tags, numbers, and punctuation marks.
 
 Other requirements:
 
-• Make (and state) reasonable assumptions about text cases
-• The program should have reasonably professional style and comments
-• No hard coding of file names in the program
+• Make (and state) reasonable assumptions about text cases <br>
+• The program should have reasonably professional style and comments <br>
+• No hard coding of file names in the program <br>
